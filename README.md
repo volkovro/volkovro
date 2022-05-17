@@ -13,7 +13,6 @@
 ```
 </h6>
 
-<h4 align="center">Hi there, I'm Roman 👋</h4>
   
 ###
   
