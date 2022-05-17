@@ -25,15 +25,15 @@ I will continue to post new tools and updates on [🕷notabug.org🕷](https://w
 
  🧟 Projects that I will no longer update :
 
-  * [Mail-sender](https://github.com/volkovro/mail-sender "github.com")
-  * [Mikrotik-backups](https://github.com/volkovro/mikrotik-backups "github.com")
+  * [Mail-sender](https://github.com/volkovro/mail-sender "github.com") - *Utility for sending the output of console programs to the mail*
+  * [Mikrotik-backups](https://github.com/volkovro/mikrotik-backups "github.com") - *Script for centralized collection of backup copies of mikrotik devices*
 
  🌱 Projects planned for this year :
 
-  * [Incirrate](https://github.com/volkovro/incirrate "github.com")
+  * [Incirrate](https://github.com/volkovro/incirrate "github.com") - *Ansible of a healthy person*
   
   🔫 Projects for fun that are not worth paying attention to :
   
-  * [Linux-workspace](https://github.com/volkovro/linux-workspace "github.com")
+  * [Linux-workspace](https://www.notabug.org/volkovro/linux-workspace "notabug.org") - *Portable linux workspace on docker*
   
 <h4 align="center">DevOps, IT engineer from Russia 🇷🇺</h4>
