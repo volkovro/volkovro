@@ -35,5 +35,6 @@ I will continue to post new tools and updates on [🕷notabug.org🕷](https://w
   🔫 Projects for fun that are not worth paying attention to :
   
   * [Linux-workspace](https://www.notabug.org/volkovro/linux-workspace "notabug.org") - *Portable linux workspace on docker*
+  * [Stendadmin](https://www.notabug.org/volkovro/stendadmin "notabug.org") - *Utility for sequential startup pipeline stages gitlab-ci*
   
 <h4 align="center">DevOps, IT engineer from Russia 🇷🇺</h4>
