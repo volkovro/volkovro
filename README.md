@@ -31,7 +31,7 @@ I will continue to post new tools and updates on [🕷notabug.org🕷](https://w
 
  🌱 Projects planned for this year :
 
-   While I'm doing nothing :C
+  * While I'm doing nothing :C
   
   🔫 Projects for fun that are not worth paying attention to :
   
